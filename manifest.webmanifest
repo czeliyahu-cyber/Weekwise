@@ -1,0 +1,11 @@
+{
+  "name": "Weekwise — Weekly Budget",
+  "short_name": "Weekwise",
+  "description": "A clear weekly budget, receipt history, and subscriptions.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f8fa",
+  "theme_color": "#f7f8fa",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
