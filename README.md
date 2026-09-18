@@ -8,6 +8,9 @@ An independent, mobile-first prototype for an iPhone weekly budget and subscript
 - Add, edit, and delete expenses; attach a camera photo of a receipt; suggest a category from the merchant name; inspect past weeks and search within a week.
 - Enter an amount and short description first; the app suggests a category, subcategory, icon and color from the description. You can change the category.
 - Financial calendar with recurring income, bills, planned expenses and subscription due dates. Review weekly budget results and move between months.
+- Calendar cash-flow colors: green for expected income, red for payments and recorded expenses, blue for weekly budget availability. Each calendar week includes its own budget bar; tapping a day reveals its entries.
+- In-app Notifications area for expected payday and one-time income on the scheduled date. It does not send system push alerts or confirm deposits.
+- The Home budget card animates into the detailed view and back, with a reduced-motion fallback.
 - Reports with monthly spending, category and subcategory transactions, weekly results and simple observations.
 - Add, edit, pause, and delete weekly, monthly, or yearly subscriptions. Estimated monthly total is shown separately from weekly expenses.
 - Export a CSV of expenses, or export and restore a JSON backup containing receipt photos.
